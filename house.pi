@@ -2,6 +2,8 @@
 //testing
 def main(msg):
 	print(msg)
-    //change from pi2
-    //add some new from pi
+
+def secondary():
+    print("hi there"")
+
 main("hell world")
