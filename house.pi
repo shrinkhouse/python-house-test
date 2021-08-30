@@ -1,3 +1,6 @@
 //just beginning
 //testing
-print("hello world")
+def main(msg):
+	print(msg)
+
+main("hell world")
