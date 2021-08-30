@@ -1,7 +1,7 @@
 //just beginning
 //testing
 def main(msg):
-    //change from pi2
 	print(msg)
-//add some new from pi
+    //change from pi2
+    //add some new from pi
 main("hell world")
