@@ -1,6 +1,7 @@
 //just beginning
 //testing
 def main(msg):
+    //change from pi2
 	print(msg)
 
 main("hell world")
